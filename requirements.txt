@@ -1,0 +1,5 @@
+spotipy>=2.24.0
+keyboard>=0.13.5
+pystray>=0.19.5
+pillow>=10.0.0
+keyring>=24.0.0
